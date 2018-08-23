@@ -9,7 +9,7 @@ Youtube Converter adalah sebuah alat untuk melakukan konversi dari video yang ad
 Kami membuat tool ini dibantu dengan menggunakan beberapa aset tambahan seperti :<br/>
 - [Bootstrap 4.1.3](https://www.bootstrapcdn.com/)
 - [Nucleo Outline Web Font 2.9](https://nucleoapp.com/)
-- [Now UI Kit](https://demos.creative-tim.com/now-ui-kit/)
+- [Now UI Kit by Creative Tim](https://demos.creative-tim.com/now-ui-kit/)
 
 ### Author
 - [Agrin Fauzi](https://t.me/blxfck)
