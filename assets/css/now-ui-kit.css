@@ -26,6 +26,7 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+<<<<<<< HEAD
 .tim-row {
   margin-bottom: 20px;
 }
@@ -532,6 +533,8 @@
     display: none !important;
   }
 }
+=======
+>>>>>>> 0af30523f0d03c51a84958df26a3347e84898655
 
 .bootstrap-switch {
   display: inline-block;
